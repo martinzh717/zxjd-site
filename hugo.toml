@@ -1,0 +1,4 @@
+baseURL = 'http://zhix.run/'
+languageCode = 'zh-cn'
+title = '知行进达'
+theme = 'ananke'
